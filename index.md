@@ -1,6 +1,0 @@
-<html>
-<h1> This is my first webpage powered by Github </h1>
-
-Thanks Github
-
-</html>
